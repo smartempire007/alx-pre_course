@@ -1,1 +1,15 @@
-touch
+git clone https://github.com/smartempire007/alx-pre_course.git
+git config --global user.email "jcyoung.mjc44@gmail.com"
+git config --global user.name "Nwadike Joseph"
+git add .
+git commit -m 'My first readme'
+git branch origin
+git branch
+git push origin main:master
+git status
+git pull origin master
+git log
+git checkout -b update_script
+git status
+git push
+
